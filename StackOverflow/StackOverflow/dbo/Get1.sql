@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE [dbo].[Get1]
+
+AS
+BEGIN
+	SELECT 1
+END
