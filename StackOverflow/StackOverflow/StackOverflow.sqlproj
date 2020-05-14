@@ -73,4 +73,8 @@
     <Build Include="dbo\Tables\LinkTypes.sql" />
     <Build Include="dbo\Tables\VoteTypes.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="StackOverflow.sandbox.publish.xml" />
+    <None Include="StackOverflow.prod.publish.xml" />
+  </ItemGroup>
 </Project>
